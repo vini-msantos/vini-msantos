@@ -7,7 +7,7 @@
 - 🎵 Passionate about making music in my free time.
 
 ### Skills & Interests:
-I have been learning programming for the last couple of years, acquiring some knowledge in languages such as Python, Javascript, Elixir, Rust and Gleam, mostly by myself from watching videos, solving coding problems and building projects. I'm really looking forward to getting more experienced with web development and surrounding technologies, as well as exploring the interesting world of game development, both to sharpen my problem-solving skills and as a creative outlet; I'm excited to see where these interests take me, as I continue my journey in Computer Science.
+I have been learning programming for the last couple of years, acquiring some knowledge in languages such as Python, Javascript, Go, Dart, C and Rust, mostly by myself from watching videos, solving coding problems and building projects. I'm really looking forward to getting more experienced with web development and surrounding technologies, as well as exploring the interesting world of game development, both to sharpen my problem-solving skills and as a creative outlet; I'm excited to see where these interests take me, as I continue my journey in Computer Science.
 <!--
 **vini-msantos/vini-msantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
